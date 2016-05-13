@@ -31,14 +31,10 @@ var App = App || {
 			// function calls
 
 			self.monthsToRetirement($pra, $currAge);
-			debugger;
 			self.getTotalValue(totalValue);
-			debugger;
 			self.calcChecking(rent, expenses);
-			debugger;
 		});
 
-		// calc checking
 		
 		
 	},
